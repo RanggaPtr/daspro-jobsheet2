@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MyFirstJavaGithub23",
+            "request": "launch",
+            "mainClass": "MyFirstJavaGithub23",
+            "projectName": "daspro-jobsheet2_24ef3e8a"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "pwa-chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
